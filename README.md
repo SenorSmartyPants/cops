@@ -1,3 +1,7 @@
+# Don't use this Repo
+
+All my changes have been merged into https://github.com/mikespub-org/seblucas-cops along with many other changes and is being actively maintained. Please go check it out!
+
 # COPS
 
 COPS stands for Calibre OPDS (and HTML) Php Server.
